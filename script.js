@@ -14,3 +14,5 @@ header.style.cssText = `
 	justify-content: center;
 	align-items: center;
 `;
+
+header.append(cont);
